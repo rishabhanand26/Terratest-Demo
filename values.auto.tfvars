@@ -1,0 +1,9 @@
+cidr_block             =  
+region                 =  
+subnets                =  
+tenancy                =  
+dns_support            =  
+vpc_tags               = 
+instance               = 
+instance_ami           =  
+azs                    = 
